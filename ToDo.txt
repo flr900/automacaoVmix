@@ -1,7 +1,10 @@
 FUNÇÕES
+TELA DIVIDIDA
+	AJUSTAR INPUT DE TELAS VIA DYNAMIC INPUT OU OBSERVAR LAYER
+
 Corte seguidor (PGM CF)
 
-ABRE MIC CAMERA DONE
+ABRE MIC CAMERA DONE!!!!
 	ABRE QUALQUER CAMERA
 	ABRE MIC TIT OU BY
 
@@ -27,7 +30,7 @@ CÂMERA SEMPRE AFV
 
 ponto atenção
 Entradas de nota coberta a partir de po
-toogle mic tit ou by DONE
+toogle mic tit ou by DONE!!!!
 caso não tenha informação na tarja fica sem ser inserida
 abre audio linha caso no telão ou em pgm
 
