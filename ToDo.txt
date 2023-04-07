@@ -1,0 +1,31 @@
+FUNÇÕES
+Corte seguidor (PGM CF)
+
+ABRE MIC CAMERA Done
+	ABRE QUALQUER CAMERA
+	ABRE MIC TIT OU BY
+
+ABRE PO FECHA MIC
+
+NOTA COBERTA
+	PLAY NO PO
+	ABRE MIC
+	ABRE PO A 30%
+
+PASSAGEM
+	CAMERA EM PGM
+	ABRE MIC
+	PLAY TRILHA
+	ABRE TRILHA
+
+PREMISSAS
+
+CÂMERA SEMPRE AFV
+
+
+ponto atenção
+Entradas de nota coberta a partir de po
+toogle mic tit ou by
+
+fd19d100-4fdf-46da-93c8-9629e9685249
+fd19d100-4fdf-46da-93c8-9629e9685249
