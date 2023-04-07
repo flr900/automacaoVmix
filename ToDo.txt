@@ -1,11 +1,13 @@
 FUNÇÕES
 Corte seguidor (PGM CF)
 
-ABRE MIC CAMERA Done
+ABRE MIC CAMERA DONE
 	ABRE QUALQUER CAMERA
 	ABRE MIC TIT OU BY
 
 ABRE PO FECHA MIC
+
+FECHA AUDIO LINHA
 
 NOTA COBERTA
 	PLAY NO PO
@@ -25,7 +27,7 @@ CÂMERA SEMPRE AFV
 
 ponto atenção
 Entradas de nota coberta a partir de po
-toogle mic tit ou by
+toogle mic tit ou by DONE
+caso não tenha informação na tarja fica sem ser inserida
+abre audio linha caso no telão ou em pgm
 
-fd19d100-4fdf-46da-93c8-9629e9685249
-fd19d100-4fdf-46da-93c8-9629e9685249
