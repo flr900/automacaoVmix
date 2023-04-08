@@ -10,7 +10,7 @@ ABRE MIC CAMERA DONE!!!!
 
 ABRE PO FECHA MIC
 /
-FECHA AUDIO LINHA
+FECHA AUDIO LINHA DONE!!!!
 
 NOTA COBERTA
 	PLAY NO PO
@@ -25,14 +25,14 @@ PASSAGEM
 
 PREMISSAS
 
-CÂMERA SEMPRE AFV
+
 
 
 ponto atenção
 Entradas de nota coberta a partir de po
 toogle mic tit ou by DONE!!!!
 caso não tenha informação na tarja fica sem ser inserida
-abre audio linha caso no telão ou em pgm
+abre audio linha caso no telão ou em pgm DONE!!!!
 
 Google Sheet URL: https://docs.google.com/spreadsheets/d/14yObtoPr6UjcCkN5Pa17n5k1Mc0e8Gac685N3CbcEfQ/edit?usp=sharing
 Google Sheet API Key: AIzaSyBevUfWeqUm8u0kaUYRbmHk35jPQ72DK7M
