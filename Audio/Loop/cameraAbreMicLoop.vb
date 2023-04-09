@@ -38,15 +38,12 @@ if falhaMic = "false" then
        select case pgmIndex
        case cam1Index
               API.FUNCTION("AudioOn", Input:= micTit)
-              Console.Writeline("Cam1" & micTit)
        case cam2Index
               API.FUNCTION("AudioOn", Input:= micTit)
-              Console.Writeline("Cam2")
-       case cam3Index
+                     case cam3Index
               API.FUNCTION("AudioOn", Input:= micTit)
-              Console.Writeline("Cam3")
-       case else
-              Console.WriteLine("Outro")
+                     case else
+              
        end select
 else
        'Garante o mic tit fechado
@@ -55,18 +52,13 @@ else
        select case pgmIndex
        case cam1Index
               API.FUNCTION("AudioOn", Input:= micBy)
-              Console.Writeline("Cam1")
-       case cam2Index
+                     case cam2Index
               API.FUNCTION("AudioOn", Input:= micBy)
-              Console.Writeline("Cam2")
-       case cam3Index
+                     case cam3Index
               API.FUNCTION("AudioOn", Input:= micBy)
-              Console.Writeline("Cam3")
-       case else
-              Console.WriteLine("Outro")
+                     case else
+              
        end select
 end if
-
-Console.WriteLine("Input em PGM: "& pgmIndex)
 Sleep(100)
 loop
