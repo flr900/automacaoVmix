@@ -13,8 +13,8 @@ do while true
 
 'Busca dados da API do Vmix em Tempo Real
 dim apiVmix as string = API.XML()
-   dim x as new system.xml.xmldocument
-   x.loadxml(apiVmix)
+dim x as new system.xml.xmldocument
+x.loadxml(apiVmix)
 
 'Busca os dados em caso de falha de mic
 dim falhaMic as string = x.selectSingleNode("/vmix/dynamic/value1").innertext
