@@ -33,6 +33,6 @@ dim sec as integer = regressiva Mod 60
 'console.writeline(sec)
 
 'somente para teste e aprendizado:
-'Dim duration As Integer = Convert.ToInt32(xmlDoc.SelectSingleNode("//input").Attributes("duration").Value)
+'Dim dur As Integer = Convert.ToInt32(apiVmix.SelectSingleNode("//input").Attributes("duration").Value)
 
 loop
