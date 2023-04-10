@@ -32,11 +32,17 @@ PASSAGEM
 TELA DIVIDIDA
 AJUSTAR INPUT DE TELAS VIA DYNAMIC INPUT OU OBSERVAR LAYER
 
+DESEJAVEL
+
+CORREÇÃO DE COR NA MÃO DO TEC SISTEMAS
+ponto de coordenação
+
 ponto atenção
 Entradas de nota coberta a partir de po DONE
 toogle mic tit ou by DONE!!!!
 caso não tenha informação na tarja fica sem ser inserida
 abre audio linha caso no telão ou em pgm DONE!!!!
+Fecha  microfone
 
 Google Sheet URL: https://docs.google.com/spreadsheets/d/14yObtoPr6UjcCkN5Pa17n5k1Mc0e8Gac685N3CbcEfQ/edit?usp=sharing
 Google Sheet API Key: AIzaSyBevUfWeqUm8u0kaUYRbmHk35jPQ72DK7M
