@@ -7,7 +7,7 @@ dim tempResta as double = 0
 dim tempTrigger as integer = 10     'tempo restante para término
 dim durTrigger as integer = 2000    'duração do fade
 
-dim titleTimer as string = "timerVideo"
+dim titleTimerVideo as string = "timerVideo"
 
 do while true 
 
@@ -26,13 +26,34 @@ tempResta = tempResta/100
 dim regressiva as integer = CInt(tempResta)
 regressiva = regressiva/10
 
-dim min as integer = regressiva/60
+dim min as integer = regressiva\60
 dim sec as integer = regressiva Mod 60
 
-'console.writeline(regressiva)
-'console.writeline(sec)
+'debug
+'console.writeline("regressiva:" + regressiva)
+'console.writeline("minutos:" + min)
+'console.writeline("tempo restante:" + tempResta)
+'console.writeline("segundos:" + sec)
 
 'somente para teste e aprendizado:
 'Dim dur As Integer = Convert.ToInt32(apiVmix.SelectSingleNode("//input").Attributes("duration").Value)
 
+dim tempoAtual as string
+tempoAtual = min.ToString("00") + ":" + sec.ToString("00")
+
+'Agora começa sa condições para exibição
+
+if tempResta < 60 'then 'teste de sintaxe
+    API.FUNCTION("SetText", input:= titleTimerVideo, SelectedIndex:="0", value:=tempResta) 'value:= ":", value:= sec
+        if tempResta < 30
+        API.FUNCTION("SetTextColour", input:= titleTimerVideo, value:= "red")
+        else
+        API.FUNCTION("SetTextColour", input:= titleTimerVideo, value:= "orange")
+        end if
+else
+    API.FUNCTION("SetText", input:= titleTimerVideo, SelectedIndex:="0", value:=tempoAtual) 
+    API.FUNCTION("SetTextColour", input:= titleTimerVideo, value:= "green")
+end if
+
+sleep(50)
 loop
