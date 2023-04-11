@@ -1,6 +1,8 @@
 FUNÇÕES
-TELA DIVIDIDA
-	AJUSTAR INPUT DE TELAS VIA DYNAMIC INPUT OU OBSERVAR LAYER
+
+
+FEITOS
+
 
 Corte seguidor (PGM CF)
 
@@ -8,14 +10,18 @@ ABRE MIC CAMERA DONE!!!!
 	ABRE QUALQUER CAMERA
 	ABRE MIC TIT OU BY
 
-ABRE PO FECHA MIC
-/
+ABRE PO FECHA MIC DONE
+
 FECHA AUDIO LINHA DONE!!!!
 
-NOTA COBERTA
+NOTA COBERTA DONE
 	PLAY NO PO
 	ABRE MIC
 	ABRE PO A 30%
+
+
+A FAZER
+
 
 PASSAGEM
 	CAMERA EM PGM
@@ -23,14 +29,20 @@ PASSAGEM
 	PLAY TRILHA
 	ABRE TRILHA
 
-PREMISSAS
+TELA DIVIDIDA
+AJUSTAR INPUT DE TELAS VIA DYNAMIC INPUT OU OBSERVAR LAYER
 
+DESEJAVEL
+
+CORREÇÃO DE COR NA MÃO DO TEC SISTEMAS
+ponto de coordenação
 
 ponto atenção
-Entradas de nota coberta a partir de po
+Entradas de nota coberta a partir de po DONE
 toogle mic tit ou by DONE!!!!
 caso não tenha informação na tarja fica sem ser inserida
 abre audio linha caso no telão ou em pgm DONE!!!!
+Fecha  microfone
 
 Google Sheet URL: https://docs.google.com/spreadsheets/d/14yObtoPr6UjcCkN5Pa17n5k1Mc0e8Gac685N3CbcEfQ/edit?usp=sharing
 Google Sheet API Key: censored
