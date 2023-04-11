@@ -38,7 +38,7 @@ console.writeline("next")
 sleep(2000)
 
 'Para teste de escrita
-API.Function("SetText", Input:= titleIn, SelectedName:= "flag1.Text", value:= 8001)
+A'PI.Function("SetText", Input:= titleIn, SelectedName:= "flag1.Text", value:= 8001)
 'Function=SetText&Input=flagTitle&SelectedName=flag1.text&Value=800
 
 loop
